@@ -1,0 +1,17 @@
+.root-app{
+  box-sizing: content-box;
+  padding: 10px;
+}
+
+li {
+  list-style: none;
+  cursor: pointer;
+}
+
+.search-bar input {
+  width: 100%;
+}
+
+.search-bar {
+  margin-bottom: 10px;
+}
