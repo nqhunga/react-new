@@ -1,5 +1,5 @@
-# react-new
-react-configuration
+# react-youtube-search
+youtube searching tool with react using youtube-search-api
 
 after clone the repository, in root folder run
 npm run dev 
